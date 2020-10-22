@@ -55,7 +55,7 @@
 
 <p align="center">
 
-<a href="www.linkedin.com/in/paul-ndam-a3a38114a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-paulndam%20Paul%20Ndam-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/paul-ndam-a3a38114a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-paulndam%20Paul%20Ndam-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/paulblue536/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-paulndam?style=flat-square&logo=instagram"></a>
 <a href="njoyablue43@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-njoyablue43@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
