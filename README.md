@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1535681171191-f4875acf903f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=773&q=80">
+<img src="https://cdn.pixabay.com/photo/2018/09/16/22/08/software-3682509_960_720.jpg">
 
 <h2> Hey there! I'm Paul Ndam.</h2>
 
