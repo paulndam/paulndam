@@ -1,4 +1,4 @@
-<img src="https://cdn.pixabay.com/photo/2018/09/16/22/08/software-3682509_960_720.jpg">
+<img src="https://cdn.pixabay.com/photo/2019/06/17/19/48/source-4280758_960_720.jpg">
 
 <h2> Hey there! I'm Paul Ndam.</h2>
 
