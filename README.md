@@ -1,4 +1,4 @@
-<img src="https://image.freepik.com/free-photo/abstract-techno-background-with-connecting-lines_1048-5570.jpg">
+<img src="https://cdn.pixabay.com/photo/2018/09/16/22/08/software-3682509_960_720.jpg">
 
 <h2> Hey there! I'm Paul Ndam.</h2>
 
