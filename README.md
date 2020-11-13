@@ -1,4 +1,4 @@
-<img src="https://cdn.pixabay.com/photo/2018/09/16/22/08/software-3682509_960_720.jpg">
+<img src="https://image.freepik.com/free-vector/futuristic-background-with-wavy-shapes_23-2148705452.jpg">
 
 <h2> Hey there! I'm Paul Ndam.</h2>
 
