@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, Web Development and Finance at University of Baltimore.
 - 💼 &nbsp; Worked as an Intern for a Financial Company(One Main Financial).
-- 💼 &nbsp; Currently working as a Software Develope II.
+- 💼 &nbsp; Currently working as a Software Developer II.
 - 🌱 &nbsp; Learning more about Software Development, Cloud Architecture, Systems Design and Artificial Intelligence, Machine Learning and Data Science.
 - ✍️ &nbsp; Pursuing Web Development and Software Development as hobbies/side hustles.
 
